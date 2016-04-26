@@ -1,0 +1,6 @@
+<h3>Plasmatic</h3>
+
+Version 1.2.1<br>
+Copyright 2013<br>
+Serge Meunier<br>
+<b>www.smokycogs.com/blog</b>

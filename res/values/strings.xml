@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plasmatic</string>
+    <string-array name="plasmaType_array">
+      <item>Plasma</item>
+      <item>Cloud</item>
+      <item>Gray</item>
+    </string-array>
+    <string name="menu_settings">Preferences</string>
+    <string name="menu_about">About</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_save">Save</string>
+    
+</resources>
